@@ -34,15 +34,15 @@ public class Matrix {
         }
     }
     
-    void rotate45(){
-        
-    }
-    
     void rotate90(){
         
     }
     
-    void rotate135(){
+    void rotate180(){
+        
+    }
+    
+    void rotate225(){
         
         
     }
